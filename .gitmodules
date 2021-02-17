@@ -1,0 +1,12 @@
+[submodule "PlainX_Project-Management-Report"]
+	path = PlainX_Project-Management-Report
+	url = git@github.com:MickPerl/PlainX_Project-Management-Report.git
+[submodule "PlainX_Project-Management-Highlights"]
+	path = PlainX_Project-Management-Highlights
+	url = git@github.com:MickPerl/PlainX_Project-Management-Highlights.git
+[submodule "PlainX_Final-Design"]
+	path = PlainX_Final-Design
+	url = git@github.com:MickPerl/PlainX_Final-Design.git
+[submodule "PlainX_Final-Design-Highlights"]
+	path = PlainX_Final-Design-Highlights
+	url = git@github.com:MickPerl/PlainX_Final-Design-Highlights.git
